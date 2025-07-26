@@ -25,6 +25,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         README.md
         core/graph_interface.h
+        core/tsp_solver.h
+        core/tsp_naive_solver.h core/tsp_naive_solver.cpp
 
 
     )

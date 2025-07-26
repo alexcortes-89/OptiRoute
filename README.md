@@ -14,7 +14,6 @@ OptiRoute is a lightweight route optimization engine written in C++ and built wi
 - C++17
 - Qt 5
 - STL
-- (Optional) LEMON Graph Library
 
 ## 🚀 Getting Started
 
