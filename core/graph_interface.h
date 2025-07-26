@@ -1,0 +1,4 @@
+#ifndef GRAPH_INTERFACE_H
+#define GRAPH_INTERFACE_H
+
+#endif // GRAPH_INTERFACE_H
